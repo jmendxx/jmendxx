@@ -38,14 +38,14 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Juliana</code>, tenho 26 anos, moro em BH e recentemente, comecei minha jornada no mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> :student:<br />
+<i><b>Olá</b> :wave:, sou a <code>Juliana</code>, tenho 26 anos, moro em BH e recentemente, comecei minha jornada no mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> :student: <br />
 </div>
 
 -----
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/jmendxx/jmendxx/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/jmendxx/jmendxx/blob/main/img/dev.gif?raw=true" width="140px" height="320px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/jmendxx/jmendxx/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -55,7 +55,7 @@
 - :woman_technologist: &nbsp; Estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.<br />
 - :briefcase: &nbsp; Atualmente, trabalho na <a href="www.comerc.com.br/" target="_blank">Comerc Energia</a> como Assistente de Atendimento. :woman_office_worker:<br />
 - :soccer: &nbsp; Sou corinthiana e minastenista, torço para o <a href="https://www.corinthians.com.br/" target="_blank">Timão</a> e o <a href="https://minastenisclube.com.br/esportes/volei-feminino/" target="_blank"> Minas Tênis Clube</a>.<br />
-- :volleyball: &nbsp; Meus hobbies são assitir jogos de volei e futebol feminino, ir ao cinema e ler.<br />
+- :volleyball: &nbsp; Meus hobbies são assitir jogos de vôlei e futebol feminino, ir ao cinema e ler.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:jmendxx@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 <!-- - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />-->
 <!-- - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
