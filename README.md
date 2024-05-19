@@ -81,7 +81,17 @@
 &nbsp; -->
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
-<!--<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/javafx.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/html.svg?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/css.svg?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/js.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/vs.png?raw=true"/></a></code>
+&nbsp;
+<!--<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/react.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/javafx.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/primefaces.png?raw=true"/></a></code>
 &nbsp;
@@ -93,14 +103,6 @@
 &nbsp;
 <code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/jenkins.svg?raw=true"/></a></code>
 &nbsp;-->
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/html.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/css.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/js.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/react.png?raw=true"/></a></code>
-&nbsp; 
 <!--<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/vbs.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/mysql.png?raw=true"/></a></code>
@@ -155,8 +157,6 @@
 &nbsp; 
 <code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/netbeans.png?raw=true"/></a></code>
 &nbsp;-->
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/vs.png?raw=true"/></a></code>
-&nbsp;
 <!--<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/xcode.png?raw=true"/></a></code>
