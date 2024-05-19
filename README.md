@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/jmendxx/jmendxx/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/jmendxx/jmendxx/blob/main/img/headertech.jpg?raw=true"/>
 </div>
 
 -----
@@ -11,42 +11,34 @@
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="11"></td>
+ <td align="center" colspan="4"></td>
 </tr> 
 <tr>
 <td><a href="https://github.com/jmendxx" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://replit.com/@aramuni"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
-</td>
 <td><a href="mailto:jmendxx@gmail.com" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/jmendxx/" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/jmendxxdev/" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/jmendxx/" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
+<!--<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+</td>-->
+<!--<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
+</td>-->
+<!--<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+</td>-->
 </tr>
 <tr>
- <td align="center" colspan="11"></td>
+ <td align="center" colspan="4"></td>
 </tr> 
 </table>
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 33 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou a <code>Juliana</code>, tenho 26 anos, moro em BH e recentemente, comecei minha jornada no mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> :student:<br />
 </div>
 
 -----
@@ -60,22 +52,14 @@
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>professor</code> da Ciência da Computação, <br />Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
-- :mortar_board: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de <br />Software e Ciência da Computação.<br />
-- :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
-- :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
-- :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
-- :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/jmendxx/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/jmendxx/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
-- :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
-- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+- :woman_technologist: &nbsp; Estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.<br />
+- :briefcase: &nbsp; Atualmente, trabalho na <a href="www.comerc.com.br/" target="_blank">Comerc Energia</a> como Assistente de Atendimento. :woman_office_worker:<br />
+- :soccer: &nbsp; Sou corinthiana e minastenista, torço para o <a href="https://www.corinthians.com.br/" target="_blank">Timão</a> e o <a href="https://minastenisclube.com.br/esportes/volei-feminino/" target="_blank"> Minas Tênis Clube</a>.<br />
+- :volleyball: &nbsp; Meus hobbies são assitir jogos de volei e futebol feminino, ir ao cinema e ler.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:jmendxx@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
-</p>
+<!-- - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />-->
+<!-- - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+</p>-->
 </div>
 </div>
 
@@ -85,7 +69,7 @@
 
 <img height="20" alt="GIF" src="https://github.com/jmendxx/jmendxx/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/bash.png?raw=true"/></a></code>
+<!--<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/bash.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
@@ -94,10 +78,10 @@
 <code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/cpp.svg?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/csharp.png?raw=true"/></a></code>
-&nbsp; 
+&nbsp; -->
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/javafx.png?raw=true"/></a></code>
+<!--<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/javafx.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/primefaces.png?raw=true"/></a></code>
 &nbsp;
@@ -108,14 +92,14 @@
 <code><a href="https://www.scala-lang.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/scala.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/jenkins.svg?raw=true"/></a></code>
-&nbsp;
+&nbsp;-->
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/html.svg?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/css.svg?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/js.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/react.png?raw=true"/></a></code>
+<!--<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/react.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/vbs.png?raw=true"/></a></code>
 &nbsp; 
@@ -170,13 +154,13 @@
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/eclipse.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/netbeans.png?raw=true"/></a></code>
-&nbsp;
+&nbsp;-->
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/vs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/intellij.png?raw=true"/></a></code>
+<!--<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/xcode.png?raw=true"/></a></code>
-</div>
+</div>-->
 
 -----
 
