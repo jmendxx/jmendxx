@@ -45,7 +45,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/jmendxx/jmendxx/blob/main/img/dev.gif?raw=true" width="240px" height="220px"/>
+<img align="right" alt="GIF" src="https://github.com/jmendxx/jmendxx/blob/main/img/dev.gif?raw=true" width="180px" height="200px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/jmendxx/jmendxx/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
