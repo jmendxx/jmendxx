@@ -99,9 +99,9 @@
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/js.png?raw=true"/></a></code>
 &nbsp; 
-<!--<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/react.png?raw=true"/></a></code>
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/react.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/vbs.png?raw=true"/></a></code>
+<!--<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/vbs.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/jmendxx/jmendxx/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
