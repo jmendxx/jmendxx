@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/jmendxx/jmendxx/blob/main/img/headertech.jpg?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/jmendxx/jmendxx/blob/main/img/headerdev.jpeg?raw=true"/>
 </div>
 
 -----
