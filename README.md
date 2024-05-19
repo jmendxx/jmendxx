@@ -18,7 +18,7 @@
 </td>
 <td><a href="mailto:jmendxx@gmail.com" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/jmendxxdev/" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/jmendxx_dev/" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/jmendxx/" target="_blank"><img src="https://github.com/jmendxx/jmendxx/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
